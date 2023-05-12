@@ -1,0 +1,64 @@
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  @media screen and (max-width:400px) {
+    .card-container {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .card-container {
+      grid-template-columns: 1fr;
+    }
+  }
+   .warning{
+    height: 100px;
+    width:250px;
+    position: absolute;
+    right: 0;
+    top: 10%;
+    background-color:red;
+    font-size: 1.1rem;
+    color: white;
+    font-family: cursive;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.message{
+  height: 100px;
+    width:250px;
+    position: absolute;
+    right: 0;
+    top: 10%;
+    background-color:green;
+    font-size: 1.1rem;
+    color: white;
+    font-family: cursive;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.icon{
+  cursor: pointer;
+}
+.icon span:nth-child(1){
+  font-size: 2rem;
+  color: white;
+}
+.icon span:nth-child(2){
+  padding: 0 3px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  position: relative;
+  top:-15px;
+}
+
+

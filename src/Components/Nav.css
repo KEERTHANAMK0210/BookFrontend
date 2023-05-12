@@ -1,0 +1,16 @@
+ .navi{
+   
+    width: 100%;
+    
+}
+.Home{
+    width: 100%;
+    min-height: 91.5vh;
+    max-height: auto;
+}
+.viewbook{
+    text-decoration: none;
+}
+.viewbook:hover{
+    color: white;
+}

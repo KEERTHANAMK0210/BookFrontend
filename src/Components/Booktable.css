@@ -1,0 +1,84 @@
+/* .booktable {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th {
+    background-color: #343a40;
+    color: white;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  td {
+    border: 1px solid #dee2e6;
+    padding: 12px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #e9ecef;
+  }
+  
+  .btn-sm {
+    padding: 0.25rem 0.5rem !important;
+    font-size: 0.875rem !important;
+    line-height: 1.5 !important;
+    border-radius: 0.2rem;
+  } */
+  .bookbar{
+    display: flex;
+   
+}
+.search-input{
+    width: 400px;
+    height: 2rem;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.booktable{
+    margin-top: 0;
+   margin-left: auto;
+    margin-right: auto;
+    
+}
+.paginationBttns{
+    width: 80%;
+    height: 40px;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding: 10px;
+}
+.paginationBttns a{
+    padding: 10px;
+    color: blueviolet;
+    margin: 10px;
+    border-radius: 2px;
+    border: 1px solid black;
+    text-decoration: none;
+}
+.paginationBttns a:hover{
+    color: brown;
+    background-color: yellow;
+}
+.paginationActive a{
+    color: brown;
+    background-color: yellow;
+}
+
+/* .btn{
+    margin-left: 1rem;
+} */
+  

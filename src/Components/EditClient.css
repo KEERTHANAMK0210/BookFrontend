@@ -1,0 +1,55 @@
+.card {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    width: 100%;
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    background-color: transparent;
+  }
+  
+  .form-control:focus {
+    box-shadow: none;
+    border-bottom: 1px solid #007bff;
+  }
+  
+  .btn-block {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .btn-light {
+    background-color: #fff;
+    border-color: #ccc;
+    color: #333;
+  }
+  
+  .btn-light:hover {
+    background-color: #eee;
+  }
+  
+  .btn-light:focus {
+    box-shadow: none;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  

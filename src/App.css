@@ -1,0 +1,81 @@
+/* .main{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0 90px 0;
+  background-color: rgb(248, 245, 245);
+}
+.sub-main{
+  display: flex;
+  justify-content: center;
+  height:550px;
+  width:35%;
+  box-shadow: 11px 12px 13px 12px rgb(207,207,207);
+  padding:30px;
+  border-radius: 60px;
+  background-color: white;
+
+}
+.imgs{
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+}
+.container-image{
+  background-color: rgb(244, 244, 244);
+  border-radius:150px;
+  align-items: center;
+  display: flex;
+  height:150px;
+}
+.profile{
+  height: 250px;
+  width: 250px;
+  border-radius:150px ;
+}
+input{
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: whitesmoke;
+  
+}
+.email{
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  padding: 14px 0 0 25px;
+  
+}
+.password{
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  padding: 14px 0 0 25px;
+
+}
+.name{
+  padding-left: 70px;
+  font-size: 20px;
+}
+.second{
+  padding-top: 20px;
+}
+button{
+  width:200px;
+  height: 50px;
+  border-radius: 60px;
+  background-color: black;
+  color: white;
+  font-size: none;
+}
+.buttonlog{
+  padding-top: 15px;
+}
+.link{
+  font-size: 20px;
+  font-weight: 400;
+} */

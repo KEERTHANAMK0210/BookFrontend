@@ -1,0 +1,38 @@
+/* 
+
+.update-form {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  
+}
+
+.update-card {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  height: auto;
+}
+
+.update-card input[type="text"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-up {
+  margin-top: 10px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.btn-up:hover {
+  background-color: #0069d9;
+} */
